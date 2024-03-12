@@ -1,4 +1,4 @@
-# Dappcord
+# Vote_for_me
 
 ## Technology Stack & Tools
 
